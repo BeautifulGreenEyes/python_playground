@@ -5,6 +5,7 @@ def fib(n): #write fibonacci series up to n
     while a < n:
         print(a)
         a, b = b, a + b
+        
     print()
 
 def fib2(n): #return Fibonacci series up to n
